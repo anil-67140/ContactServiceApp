@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cms_App</string>
+    <string name="hint_enter_email_address">Enter Email</string>
+    <string name="ed_hint_name">Enter Name</string>
+</resources>
